@@ -1,0 +1,28 @@
+5
+110 
+245.30 
+camaronesEmpanizados
+3
+camarones
+aceitedeoliva
+huevos
+120 
+150.50 
+ensaladaverde
+5
+mezcladelechugas
+espinaca
+arúgula
+aceitedeoliva
+aceitebalsamico
+131 
+390.00 
+lomodeterneraensalsadevinotinto
+2
+lomo
+vinotinto
+146 
+220.50 
+tallarines caseros al pesto verde preparados con huevos de granja y el pesto preparado con piñones, albahaca, ajo y aceite de oliva
+150 95.60 
+helado de nuez preparado con crema y nueces
